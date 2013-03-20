@@ -60,7 +60,7 @@ var Elb = function(opts) {
 };
 
 // inherit from Amazon
-util.inherits(Elb, amazon.Amazon);
+util.inherits(Elb, amazon.AmazonSignatureV2);
 
 // --------------------------------------------------------------------------------------------------------------------
 // methods we need to implement from awssum.js/amazon.js

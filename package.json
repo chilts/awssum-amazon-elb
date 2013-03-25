@@ -1,6 +1,6 @@
 {
     "name" : "awssum-amazon-elb",
-    "description" : "NodeJS module to talk to Amazon Elastic LoadBalancing (ELB).",
+    "description" : "AwsSum plugin for Amazon Elastic LoadBalancing (ELB).",
     "version" : "1.0.0",
 
     "main" : "awssum-amazon-elb.js",
